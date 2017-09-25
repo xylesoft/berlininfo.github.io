@@ -1,0 +1,22 @@
+{
+  "short_name": "Xylesoft",
+  "name": "Xylesoft Experimentation Chamber",
+  "icons": [
+    {
+      "src": "assets/xylesoft-icon-1x.jpg",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/xylesoft-icon-2x.jpg",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "assets/xylesoft-icon-4x.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html"
+}
